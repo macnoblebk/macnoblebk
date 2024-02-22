@@ -12,7 +12,5 @@ const mnbk = {
   Language:  [C++ C# Java Swift],
   Front End: [SwiftUI HTML CSS JavaScript],
   Framework: [Firebase, SprintBoot]
-  
- "To infinity and beyond" 💫
 }
 ```
