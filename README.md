@@ -1,16 +1,20 @@
-<h2> A Dreamer</h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFldnFwYXZjNmhmZDd0NXM0bDVkNGtsMmFta3duZTg1eTE1NWJwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OMeGDxdAsMPzW/giphy.gif" width="230">
+# Hey there! 👋 I'm Mac-Noble
 
+Welcome to my GitHub profile! Whether it's coding, tinkering with tech gadgets, or exploring the great outdoors, I'm always up for an adventure!
 
-[![Linkedin: macnoble](https://img.shields.io/badge/-macnoble-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mac-noblebrako-kusi/)](https://www.linkedin.com/in/mac-noblebrako-kusi/)
+## 🚀 Projects
+- [Web Proxy Server](https://github.com/macnoblebk/webProxyServer): A Python-based caching proxy server that intercepts HTTP requests, caches responses, and optimizes network performance.
+- [Project 2 Name](Link): Short description or purpose.
+- [Project 3 Name](Link): Short description or purpose.
 
-### About Me  
-      
-```javascript
-const mnbk = {
-  pronouns: "he" | "him",
-  Language:  [C++ C# Java Swift],
-  Front End: [SwiftUI HTML CSS JavaScript],
-  Framework: [Firebase, SprintBoot]
-}
-```
+## 🔧 Skills & Technologies
+- **Languages**: C++, C#, Java, Python, JavaScript
+- **Frameworks**: Spring Boot, GTest, JUnit, MSTest
+- **Databases**:  MySQL, PostgreSQL
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=macnoblebk&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+- LinkedIn: [Mac-Noble](https://www.linkedin.com/in/mac-noblebrako-kusi/)
+
