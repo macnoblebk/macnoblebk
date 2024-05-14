@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Whether it's coding, tinkering with tech gadgets, 
 
 ## 🚀 Projects
 - [Web Proxy Server](https://github.com/macnoblebk/webProxyServer): A Python-based caching proxy server that intercepts HTTP requests, caches responses, and optimizes network performance.
-- [Project 2 Name](Link): Short description or purpose.
+- [Reliable Data Transfer Protocol](https://github.com/macnoblebk/RDT3.0): The project demonstrates the principles of reliable data transmission by handling bit errors and packet loss in network communication.
 - [Project 3 Name](Link): Short description or purpose.
 
 ## 🔧 Skills & Technologies
