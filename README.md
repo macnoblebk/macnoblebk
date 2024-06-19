@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mac-Noble
+# Hey there! 👋 
 
 Welcome to my GitHub profile! Whether it's coding, tinkering with tech gadgets, or exploring the great outdoors, I'm always up for an adventure!
 
