@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! Whether it's coding, tinkering with tech gadgets, or exploring the great outdoors, I'm always up for an adventure!
 
 ## 🚀 Projects
+- [Bully Algorithm](https://github.com/macnoblebk/Bully): An implementation of the Bully Algorithm, a leader election protocol used in distributed systems to ensure a single leader is selected among a group of processes
 - [Booking Bot](https://github.com/macnoblebk/BookingBot): An automation bot designed to automate the process of searching for accommodations on Booking.com.
 - [Web Proxy Server](https://github.com/macnoblebk/webProxyServer): A Python-based caching proxy server that intercepts HTTP requests, caches responses, and optimizes network performance.
 - [Reliable Data Transfer Protocol](https://github.com/macnoblebk/RDT3.0): The project demonstrates the principles of reliable data transmission by handling bit errors and packet loss in network communication.
