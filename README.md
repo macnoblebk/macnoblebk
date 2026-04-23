@@ -27,7 +27,9 @@ I focus on **Swift, SwiftUI, UIKit, Firebase, and SwiftData**, building **clean,
   <img alt="UIKit" width="70px" src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png"/>
   <img alt="Xcode" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
   <img alt="Firebase" width="70px" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-300x378.png"/>
-  <img alt="GitHub" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <!-- <img alt="GitHub" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
+  <!-- <img alt="GitHub" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only"/> -->
+  <img alt="GitHub" width="70px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg#gh-dark-mode-only" style="filter: invert(1);"/>
 </p>  
 
 **Core Expertise:**  
