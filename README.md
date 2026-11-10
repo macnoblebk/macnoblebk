@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 # Hi, I'm Mac-Noble 👋
-If an idea excites me, I'll build it --if it be a timeline in a video editor, a canvas for a poster, or a code editor for a product. Code is just one more medium of self-expression.   
+If an idea excites me, I'll build it. Be it a timeline in a video editor, a canvas for a poster, or a code editor for a product. Code is just one more medium of self-expression.   
 
 ---
 
